@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  align-items: center;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .content {
+    padding: 60px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .content {
+    padding: 80px;
+  }
+}
