@@ -1,0 +1,21 @@
+.card {
+  background-color: cadetblue;
+  border: 1px solid gray;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+}
+
+.imagem {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.title {
+  color: aliceblue;
+}
+.descricao {
+  color: aliceblue;
+}
